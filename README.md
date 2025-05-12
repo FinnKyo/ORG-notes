@@ -1,1 +1,2 @@
-# 计算机组成原理笔记
+# computer organization notes
+
